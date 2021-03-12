@@ -12,7 +12,7 @@ params:
   homeInfoParams:
     title: "Hello"
     content: >
-      I am Michael Mayfield, and this is my (mostly) technical personal blog. I am a machine learning engineer and aspiring AI researcher.
+      I am Michael Mayfield, and this is my (mostly) technical personal blog. I'm a machine learning engineer and aspiring AI researcher.
   socialIcons: # optional
     - name: "twitter"
       url: "https://twitter.com/damosuzuki"
