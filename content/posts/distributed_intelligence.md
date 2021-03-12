@@ -6,6 +6,8 @@ draft: true
 
 We learn from each other... that is the magic of our intelligence. Our culture is what enables our intelligence.
 
+What would our intellegencefds be without learning from the experiences of our collective past.
+
 Our learning algorithm is distributed. The hive mind is real. The input data is history. This is self generated training data for a future state of our learning algorithm. Everything comes from our our history. We are agents executing its algorithm.
 
 Symbolic approaches support cultural learning. They are critical for representing our experiences in embeddings that can effectively communicate the most relevant state.
@@ -19,3 +21,6 @@ Science is the kaggle winner of distributed learning algorithms. This is the met
 The act of producing a paper is to produce a descret proposal for an update to the culture learning algorithm. This is a high-stakes game of getting consensus to evolve the learning algorithm. This is the meta-game. Conservatives play a key role in maximizing the learnings of our past. The influence they are a break to runaway
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzg3NTYyNzYwXX0=
+-->
