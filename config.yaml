@@ -6,6 +6,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+publishDir: "docs"
 params:
   ShowShareButtons: false
   homeInfoParams:
