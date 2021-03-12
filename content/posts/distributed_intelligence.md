@@ -6,7 +6,7 @@ draft: true
 
 We learn from each other... that is the magic of our intelligence. Our culture is what enables our intelligence.
 
-What would our intellegencefds be without learning from the experiences of our collective past.
+What would our intillegencfde be without learning from the experiences of our collective past.
 
 Our learning algorithm is distributed. The hive mind is real. The input data is history. This is self generated training data for a future state of our learning algorithm. Everything comes from our our history. We are agents executing its algorithm.
 
@@ -22,5 +22,5 @@ The act of producing a paper is to produce a descret proposal for an update to t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NTYyNzYwXX0=
+eyJoaXN0b3J5IjpbMTM3NDE5MDQ0MV19
 -->
