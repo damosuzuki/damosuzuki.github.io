@@ -1,0 +1,19 @@
+baseURL: "https://damosuzuki.github.io/"
+languageCode: en-us
+title: Wx+b
+theme: PaperMod
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  ShowShareButtons: false
+  homeInfoParams:
+    title: "Hello"
+    content: >
+      I am Michael Mayfield, and this is my (mostly) technical personal blog. I am a machine learning engineer and aspiring AI researcher.
+  socialIcons: # optional
+    - name: "twitter"
+      url: "https://twitter.com/damosuzuki"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/michael-mayfield/"
