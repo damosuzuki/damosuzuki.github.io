@@ -13,3 +13,7 @@ Stage 3 is the 12+ years of transfer learning called school. Where the multi-tie
 Stage 4 is agent participation in the game of life. Learning and teaching. This is self supervised and supervised.
 
 Human intelligence is a federated model.
+
+
+# TODO
+* reference https://developmentalsystems.org/language_as_cognitive_tool_vygotskian_rl

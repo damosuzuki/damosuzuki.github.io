@@ -1,6 +1,6 @@
 baseURL: "https://damosuzuki.github.io/"
 languageCode: en-us
-title: Wx+b
+title: Puzzling Ape
 theme: PaperMod
 markup:
   goldmark:
